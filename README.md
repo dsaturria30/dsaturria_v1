@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Darwin S.
+# Hi, I'm Darwin S.
 
 ## DevOps & Cloud Engineer
 
@@ -6,7 +6,7 @@ Passionate about building scalable, secure, and automated cloud infrastructure. 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Cloud Engineer with experience in AWS, Azure
 - DevOps focused on automation and reliability
